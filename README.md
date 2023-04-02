@@ -1,2 +1,2 @@
 # Myproject
-information system
+Maintenance of material storage management information system
